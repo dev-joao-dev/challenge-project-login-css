@@ -4,7 +4,7 @@
 <img src="./ASSETS/image login css 2.png" alt="image login" width="250px" height="500px">
 </a>
 
-> Design do Login pronto, nele usei bastante CSS, HTML e Figma como ferramentas, Clique na Imagem para testar o site ou entre por aqui : https://dev-joao-dev.github.io/challenge-project-login-css/.
+> Design do Login pronto, nele usei bastante CSS, HTML e Figma como ferramentas, Projeto feito para Mobile, então em navegador de PC pode apresentar falhas no design, Clique na Imagem para testar o site ou entre por aqui : https://dev-joao-dev.github.io/challenge-project-login-css/.
 
 ### Experiência Conquistada 
 
